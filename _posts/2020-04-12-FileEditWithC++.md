@@ -1,6 +1,5 @@
 ---
 layout: post
-title: File Edit with C++
 ---
 # Edit A File in C++
 ## 1. cin and cin.get()
